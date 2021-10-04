@@ -1,8 +1,8 @@
 
 
 movies_ids = {
-    'sundari': ['nv2kn5002aqp', 'nv2kn5005em4', 'nv2kn5001s8t', 'nv2kn50040uz', 'nv2kn5004zs1', 'nv2ith0001gn',
-                'nv2ith0006b1', 'nv2ith0003xn', 'nv2ith000oke', 'nv2ith000xuy'],
+    'TREATMENT 2': ['nv2mgd002lgw', 'nv2mgd002lgw', 'nv2mgd002lgw', 'nv2mgd002lgw', 'nv2mgd002lgw', 'nv2mgd002lgw',
+                'nv2mgd002lgw', 'nv2mgd002lgw', 'nv2mgd002lgw', 'nv2mgd002lgw'],
     'mad marraige and divorce': ['nv2k3100458r', 'nv2i6d002eyo', 'nv2k310059xu', 'nv2ioh00007r', 'nv2ioh0001en',
                                  'nv2k310032vv'],
     'ishq not a love story': ['nv2let003pqc', 'nv2let0056jx', 'nv2let004dma', 'nv2let003wji', 'nv2j45000le5', 'nv2j45002wmy'],
