@@ -2,7 +2,7 @@
 
 __This Bot for only gives you PDisk Links which you are asked Movie.__
 
-__It is developed by [contact](https://telegram.me/DarlingAnil)..__
+__It is developed by [contact](https://telegram.me/king_webseries)..__
 
 __Just Sent Any Text As Query It Will Search in dict And gives you exact result With The Message Links.__
 
@@ -26,18 +26,18 @@ you can use this bot as your own.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Anilkumar-Bathala/PDisk-Movie-Links-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Crownmoviestudio/PDisk-Movie-Urls-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
 
 ## If You Have Any Queries   
-Ping Me in TELEGRAM [Telegram PROFILE](https://telegram.me/DarlingAnil)
+Ping Me in TELEGRAM [Telegram PROFILE](https://telegram.me/King_webseries)
 
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
 
 ## Disclaimer
-[![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
+[![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    u
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
