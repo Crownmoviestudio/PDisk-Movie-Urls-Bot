@@ -8,7 +8,7 @@ from telegram import *
 API_KEY = os.environ.get('API_KEY')
 bot = Bot(token=API_KEY)
 MLINK = 'https://linkpdisk.com/share-video?videoid='
-admin_chat_id1 = 59922459
+admin_chat_id1 = 
 admin_chat_id2 = 1317474154
 
 
