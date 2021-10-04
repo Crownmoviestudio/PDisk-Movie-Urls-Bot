@@ -66,8 +66,8 @@ def movie(msg, username, chat_id, msg_id):
                 for link in movielinks.movies_ids[name]:
                     bot.send_message(chat_id=chat_id, text=MLINK + link, reply_to_message_id=msg_id)
                     if admin_reply != name:
-                        bot.send_message(chat_id=admin_chat_id1, text='User : @'+username+' Asked Movie name : '+name+' #Available.')
-                        bot.send_message(chat_id=admin_chat_id2, text='User : @'+username+' Asked Movie name : '+name+' #Available.')
+                        bot.send_message(chat_id=admin_chat_id1,')
+                        bot.send_message(chat_id=admin_chat_id2,')
                         admin_reply = name
         else:
             keyboard1 = [
