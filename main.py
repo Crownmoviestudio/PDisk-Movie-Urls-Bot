@@ -8,8 +8,8 @@ from telegram import *
 API_KEY = os.environ.get('API_KEY')
 bot = Bot(token=API_KEY)
 MLINK = 'https://linkpdisk.com/share-video?videoid='
-admin_chat_id1 = 894936843
-admin_chat_id2 = 799836189
+admin_chat_id1 = 1234011978
+admin_chat_id2 = 1317474154
 
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
@@ -17,14 +17,13 @@ logging.info('Starting bot...')
 
 def start_command(update, context):
     text = f'''
-    Hello {update.message.chat.username}, Ask movie name without spelling mistakes,
-    I can help you to watch that movie.
-    Before searching movie name refer the google for movie names and give me name as it is.
-    1.Search
-    2.Click
-    3.Enjoy
-
-    Developed by @DarlingAnil
+    Hello {update.message.chat.username}, ᴀꜱᴋ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ ꜱᴘᴇʟʟɪɴɢ ᴍɪꜱᴛᴀᴋᴇꜱ,
+    ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴡᴀᴛᴄʜ ᴛʜᴀᴛ ᴍᴏᴠɪᴇ
+    ʙᴇꜰᴏʀᴇ ꜱᴇᴀʀᴄʜɪɴɢ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ʀᴇꜰᴇʀ ᴛʜᴇ ɢᴏᴏɢʟᴇ ꜰᴏʀ ᴍᴏᴠɪᴇ ɴᴀᴍᴇꜱ ᴀɴᴅ ɢɪᴠᴇ ᴍᴇ ɴᴀᴍᴇ ᴀꜱ ɪᴛ ɪꜱ.
+    1.ꜱᴇᴀʀᴄʜ 🔍
+    2.ᴄʟɪᴄᴋ
+    3.ᴇɴᴊᴏʏ
+    Developed by @king_webseries
     '''
     chat_id = update.message.chat.id
 
