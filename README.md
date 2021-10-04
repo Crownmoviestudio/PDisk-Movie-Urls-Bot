@@ -1,4 +1,4 @@
-# PDisk Movie Links Bot
+# PDisk Movie Urls Bot
 
 __This Bot for only gives you PDisk Links which you are asked Movie.__
 
