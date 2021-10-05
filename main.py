@@ -23,7 +23,7 @@ def start_command(update, context):
     1.ꜱᴇᴀʀᴄʜ 🔍
     2.ᴄʟɪᴄᴋ
     3.ᴇɴᴊᴏʏ
-    Developed by @king_webseries
+    Developed by @KING_WEBSERIES
     '''
     chat_id = update.message.chat.id
 
@@ -74,7 +74,7 @@ def movie(msg, username, chat_id, msg_id):
                 [InlineKeyboardButton('Click Here To Check Spelling', url='https://www.google.com/search?q='+msg+' movie')]
             ]
             keyboard2 = [
-                [InlineKeyboardButton('Developed By King_webseries', url='https://telegram.me/king_webseries')]
+                [InlineKeyboardButton('Developed By KING_WEBSERIES', url='https://telegram.me/KING_WEBSERIES')]
             ]
             reply_markup1 = InlineKeyboardMarkup(keyboard1)
             reply_markup2 = InlineKeyboardMarkup(keyboard2)
