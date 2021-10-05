@@ -8,7 +8,7 @@ from telegram import *
 API_KEY = os.environ.get('API_KEY')
 bot = Bot(token=API_KEY)
 MLINK = 'https://linkpdisk.com/share-video?videoid='
-admin_chat_id1 = 
+admin_chat_id1 = 1234011978
 admin_chat_id2 = 1317474154
 
 
@@ -17,12 +17,12 @@ logging.info('Starting bot...')
 
 def start_command(update, context):
     text = f'''
-    Hello {update.message.chat.username}, ᴀꜱᴋ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ ꜱᴘᴇʟʟɪɴɢ ᴍɪꜱᴛᴀᴋᴇꜱ,
+    ʜᴇʟʟᴏ {update.message.chat.username}, ᴀꜱᴋ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ ꜱᴘᴇʟʟɪɴɢ ᴍɪꜱᴛᴀᴋᴇꜱ,
     ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴡᴀᴛᴄʜ ᴛʜᴀᴛ ᴍᴏᴠɪᴇ
     ʙᴇꜰᴏʀᴇ ꜱᴇᴀʀᴄʜɪɴɢ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ʀᴇꜰᴇʀ ᴛʜᴇ ɢᴏᴏɢʟᴇ ꜰᴏʀ ᴍᴏᴠɪᴇ ɴᴀᴍᴇꜱ ᴀɴᴅ ɢɪᴠᴇ ᴍᴇ ɴᴀᴍᴇ ᴀꜱ ɪᴛ ɪꜱ.
     1.ꜱᴇᴀʀᴄʜ 🔍
-    2.ᴄʟɪᴄᴋ
-    3.ᴇɴᴊᴏʏ
+    2.ᴄʟɪᴄᴋ 🔗
+    3.ᴇɴᴊᴏʏ 🌹
     Developed by @KING_WEBSERIES
     '''
     chat_id = update.message.chat.id
