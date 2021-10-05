@@ -1,14 +1,14 @@
 
 
 movies_ids = {
-    'test movie': ['nv2med000rks', 'nv2l750054a5', 'nv2l750054a5', 'nv2l750054a5', 'nv2l750054a5', 'nv2l750054a5',
-                'nv2l750054a5', 'nv2l750054a5', 'nv2l750054a5', 'nv2l750054a5'],
-    'tango live': ['nv2l75005cns', 'nv2l75005cns', 'nv2l75005cns', 'nv2l75005cns', 'nv2l75005cns',
-                                 'nv2l75005cns'],
-    'ishq not a love story': ['nv2let003pqc', 'nv2let0056jx', 'nv2let004dma', 'nv2let003wji', 'nv2j45000le5', 'nv2j45002wmy'],
-    'sarpatta parampara': ['nv2ip9002xz4', 'nv2ip90034xf', 'nv2ip9003doj', 'nv2i4d005qj8'],
-    'raya and the last dragon': ['nv2i6d000jc7', 'nv2i6d000h2q', 'nv2i6d000z49', 'nv2i6d0004xs'],
-    'narappa': ['nv2i6d000h75', 'nv2i6d000unh', 'nv2i49000ilh', 'nv2i4d000uew'],
+    'helllo jee': ['nv28hh0005ni', 'nv28hh0005ni', 'nv28hh0005ni', 'nv28hh0005ni', 'nv28hh0005ni', 'nv28hh0005ni',
+                'nv28hh0005ni', 'nv28hh0005ni', 'nv28hh0005ni', 'nv28hh0005ni'],
+    'girls hostel 2': ['nv28hh000bz3', 'nv28hh000bz3', 'nv28hh000bz3', 'nv28hh000bz3', 'nv28hh000bz3',
+                                 'nv28hh000bz3'],
+    'special teacher': ['nv28hh000af3', 'nv28hh000af3', 'nv28hh000af3', 'nv28hh000af3', 'nv28hh000af3', 'nv28hh000af3'],
+    'service': ['nv28hd00040l', 'nv28hd00040l', 'nv28hd00040l', 'nv28hd00040l'],
+    'call girl': ['nv28hd0001mb', 'nv28hd0001mb', 'nv28hd0004j0', 'nv28hd0004j0'],
+    'Agent mona': ['nv28hd000153', 'nv28hd000153', 'nv28hd000153', 'nv28hd000153'],
     'navarasa': ['nv2i6t00043s', 'nv2i6t0005ti', 'nv2i6t0001ii', 'nv2i6t0001id'],
     'the legend of hanuman': ['nv2i8h0014sj', 'nv2i8h0030ou', 'nv2i8h005v5b'],
     'the heist of the century': ['nv2i8h000omu', 'nv2i8h000hol'],
